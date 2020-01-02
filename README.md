@@ -73,9 +73,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
   * VBA Scripts as separate files.
 
 * After everything has been saved, create a sharable link and submit that to <https://bootcampspot-v2.com/>.
-
-- - -
-
-### Copyright
-
-Coding Boot Camp © 2019. All Rights Reserved.
